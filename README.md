@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @batuhan-demirbas
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning KOTLİN
+- 👀 I’m interested in mobile programming
+- 🌱 I’m currently learning Kotlin&Android
 - 📫 How to reach me batuhan@demirbas.co
