@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @batuhan-demirbas
 - 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning ```Kotlin & Android```
-- 🗒️ You can read my technical articles on my [Medium](https://medium.com/@batuhandemirbas) page.
+- 🗒️ You can read technical articles on my [Medium](https://medium.com/@batuhandemirbas) page.
 - 📫 How to reach me batuhan@demirbas.co
