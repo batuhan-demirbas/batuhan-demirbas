@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @batuhan-demirbas
-- 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning ```Swift & iOS```
+- 👀 iOS Developer
 - 🗒️ You can read technical articles on my [Medium](https://medium.com/@batuhandemirbas) page.
 - 📫 How to reach me batuhan@demirbas.co
